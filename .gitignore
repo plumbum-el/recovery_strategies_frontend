@@ -1,0 +1,11 @@
+frontend/node_modules/
+frontend/dist/
+frontend/certs/
+**/__pycache__/
+**/.venv/
+**/.env
+*.pem
+*.key
+*.pfx
+*.crt
+*.tsbuildinfo
